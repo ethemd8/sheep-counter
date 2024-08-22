@@ -34,6 +34,8 @@ Sonuçları Görüntüleme: Çalıştırdıktan sonra koyunların sayısını ve
 Ekran Görüntüleri
 
 Sistem ekranı: Koyunların ID'leri ve sayısı görüntüleniyor.
+![image](https://github.com/user-attachments/assets/e344cd53-8dc6-46f9-84bf-fdd683eebcfc)
+
 
 Kullanılan Teknolojiler
 YOLO Modeli: Koyunların tespiti için.
